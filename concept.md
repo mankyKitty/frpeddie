@@ -12,16 +12,16 @@
 
 `{f,g,i}`
 
-`f`: Thread reading from ``/dev/random` 
-`g`: Tick value (sine curve of UNIX epoch?)
-`i`: Process info (shell out, using given PID)
+- `f`: Thread reading from `/dev/random` 
+- `g`: Tick value (sine curve of UNIX epoch?)
+- `i`: Process info (shell out, using given PID)
 
 #### Displays
 
 `{A, B}`
 
-`A` : `{f,g}`
-`B` : `{g,i}`
+- `A` : `{f,g}`
+- `B` : `{g,i}`
 
 Inputs are displayed independently and as some sort of function over both.
 
